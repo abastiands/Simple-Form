@@ -1,0 +1,14 @@
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\bin\Debug\SimpleForm.exe.config
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\bin\Debug\SimpleForm.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\bin\Debug\SimpleForm.pdb
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm.csprojAssemblyReference.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\MainWindow.g.cs
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\App.g.cs
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm_MarkupCompile.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm_MarkupCompile.lref
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\MainWindow.baml
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm.g.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm.Properties.Resources.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm.csproj.GenerateResource.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\SimpleForm\SimpleForm\obj\Debug\SimpleForm.pdb
